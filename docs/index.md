@@ -92,6 +92,7 @@ the corresponding measurement without measurement type recognition, while that s
 algorithm is implemented.
 
 ![Example Workflow](./imgs/workflow.png)
+
 *Fig. C.1 An example measurement workflow without (above) and with (below) automatic measurement type recognition.*
 
 
