@@ -1,6 +1,7 @@
 ## Article
 
-A link to the article will be available once published. 
+The article was published in the Journal of Biomedical and Healthcare Bioinformatics and is available 
+[online](https://ieeexplore.ieee.org/document/9216477).
 
 ## Supplementary Material
 
@@ -61,10 +62,13 @@ pulmonary venous blood flow velocities.
 
 **Septal Tissue Doppler (SEP):** The motion of the basal septal wall can be measured from A4C using Tissue Velocity 
 Doppler (TVD) to assess systolic and diastolic function.
+
 **Lateral Tissue Doppler (LAT):** The motion of the basal lateral wall can be measured from A4C or A5C using TVD to 
 assess systolic and diastolic function.
+
 **Right Ventricle Tissue Doppler (RV):** The motion of the basal right ventricular wall can be measured from A4C or A5C 
 using TVD to assess systolic and diastolic function.
+
 **No Organ (NO):** A image containing no tissue information and random Doppler cursor locations (and thus random 
 Doppler signals) so the network will not misclassify images where the probe has not yet been placed on the body. 
 
